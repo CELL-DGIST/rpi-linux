@@ -2,8 +2,8 @@
 VERSION = 5
 PATCHLEVEL = 15
 SUBLEVEL = 92
-EXTRAVERSION =
-NAME = Trick or Treat
+EXTRAVERSION = CSE2023
+NAME = CELL
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
